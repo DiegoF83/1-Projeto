@@ -11,7 +11,11 @@
     --surface-color: rgba(255, 255, 255, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(255, 255, 255, 0.2);
+<<<<<<< HEAD
     --switch-bg-url: url(./assets/moon-stars.svg);
+=======
+    --switch-bg-url: url(./assets/moon-stars.svg)
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
 }
 
 
@@ -22,7 +26,11 @@
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
     --switch-bg-url: url(./assets/sun.svg);
+=======
+    --switch-bg-url: url(./assets/sun.svg)
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
 }
 
 body {
@@ -35,8 +43,12 @@ body {
     }
 
     #container {
+<<<<<<< HEAD
         width: 100%px;
         max-width: 588px
+=======
+        width: 360px;
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
         margin: 56px auto 0px;
         padding: 0 24px;
     }
@@ -57,7 +69,11 @@ body {
     #profile p {
         font-weight: 500;
         line-height: 24px;
+<<<<<<< HEAD
         margin-top: 8px;
+=======
+        margin-top: 8px
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
     }
 
 /* switch*/
@@ -86,7 +102,11 @@ body {
 
 .light #switch button {
     right: 0;
+<<<<<<< HEAD
     left: inherit;
+=======
+    left: inherit
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
 }
 
 #switch span {
@@ -134,7 +154,11 @@ ul li a{
 
 /* pseudo-selector */
 ul il a:hover {
+<<<<<<< HEAD
     background: var(--surface-color-hover);
+=======
+    background: var(--surface-color-hover)
+>>>>>>> 850e0522a7fcb40d7dba28f87d4b8675f76e4b56
     border: 1.5px solid var(--text-color);
 }
 
