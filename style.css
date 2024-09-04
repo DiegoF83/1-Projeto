@@ -31,12 +31,12 @@ body {
     }
 
     body * {
-        font-family: "Inter", sans-serif;
+        font-family: "Inter" sans-serif;
         color: var(--text-color);
     }
 
     #container {
-        width: 100%px;
+        width: 100%;
         max-width: 588px;
         margin: 56px auto 0px;
         padding: 0 24px;
@@ -102,7 +102,7 @@ body {
     height: 24px;
     background: var(--surface-color);
     border: 1px solid var(--stroke-color);
-    -webkit-bakdrop-filter:vblur(4px);
+    -webkit-bakdrop-filter: blur(4px);
     border-radius: 9999px;
 }
 
